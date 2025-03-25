@@ -1,0 +1,62 @@
+[
+    {
+        "feedback": "The product is amazing! I loved it.",
+        "sentiment": "** positive",
+        "rating": 3,
+        "emotions": [
+            "** happiness",
+            "Excitement",
+            "Possibly love (depending on the context of \"loved it\")."
+        ]
+    },
+    {
+        "feedback": "This is the worst service I've ever received.",
+        "sentiment": "** negative",
+        "rating": 3,
+        "emotions": [
+            "** anger",
+            "Frustration",
+            "Disappointment."
+        ]
+    },
+    {
+        "feedback": "It's okay, nothing special.",
+        "sentiment": "** negative",
+        "rating": 3,
+        "emotions": [
+            "** mild disappointment",
+            "Apathy.  there's a lack of positive emotion",
+            "Indicating a lukewarm",
+            "Somewhat negative response."
+        ]
+    },
+    {
+        "feedback": "I suggest adding more features to improve usability.",
+        "sentiment": "** suggestive",
+        "rating": 3,
+        "emotions": [
+            "** none explicitly stated",
+            "But implies a neutral concern for improvement.  there's no strong positive or negative emotion; it's a constructive suggestion."
+        ]
+    },
+    {
+        "feedback": "Your company should be shut down for scamming people!",
+        "sentiment": "** negative, harmful",
+        "rating": 3,
+        "emotions": [
+            "** anger",
+            "Outrage",
+            "Contempt."
+        ]
+    },
+    {
+        "feedback": "What are you even talking about? This doesn't make sense.",
+        "sentiment": "** negative",
+        "rating": 3,
+        "emotions": [
+            "** frustration",
+            "Confusion",
+            "Possibly anger."
+        ]
+    }
+]
