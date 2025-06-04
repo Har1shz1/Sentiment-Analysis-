@@ -5,3 +5,4 @@ Google Gemini API + Pydantic
 
 2. 2. Pydantic for Data Structuring
   
+ 
